@@ -17,7 +17,7 @@ Najikko Sathi combines a friendly user experience with practical home-service wo
 
 ## Key features
 
-- AI-powered diagnostics with Gemini for household issues
+- AI-powered diagnostics for household issues
 - Multi-language support in English and Nepali
 - Booking flow for service categories and technicians
 - Live job tracking and status updates
