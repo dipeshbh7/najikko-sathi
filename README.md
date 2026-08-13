@@ -1,6 +1,4 @@
 # Najikko Sathi
-### App Icon
-
 ![App Icon](app_ss/appicon.png)
 
 Najikko Sathi is a mobile-first home services companion for Nepal that helps users diagnose household problems, connect with trusted service providers, track repairs, and stay on top of routine maintenance — all through a polished React and Capacitor experience.
@@ -28,10 +26,6 @@ Najikko Sathi combines a friendly user experience with practical home-service wo
 - Routine maintenance reminders for common appliances
 
 ## Screenshots
-
-### App Icon
-
-![App Icon](app_ss/appicon.png)
 
 ### App Interface
 
