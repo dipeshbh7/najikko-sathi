@@ -1,36 +1,8 @@
-# Dependencies
 node_modules/
-
-# Build output
-/build/
-/dist/
-**/build/
-**/dist/
+build/
+dist/
 coverage/
-*.apk
-*.aab
-*.ap_
-*.jks
-
-# Environment files
-.env
-.env.*
-!.env.example
-
-# IDE and editor files
-.idea/
-.vscode/
-*.iml
-
-# Android / Gradle
-.gradle/
-**/.gradle/
-android/.gradle/
-android/app/build/
-android/build/
-android/capacitor-cordova-android-plugins/build/
-android/local.properties
-
-# Miscellaneous
 .DS_Store
 *.log
+.env*
+!.env.example

@@ -100,7 +100,7 @@ Respond strictly in JSON matching this schema:
       const { base64Data, mimeType } = await getMediaData(image);
 
       const response = await ai.models.generateContent({
-        model: "gemini-3.5-flash",
+        model: "gemini-2.5-flash",
         contents: [
           {
             inlineData: {
@@ -176,7 +176,7 @@ Provide a detailed JSON response matching this schema:
       const { base64Data, mimeType } = await getMediaData(image);
 
       const response = await ai.models.generateContent({
-        model: "gemini-3.5-flash",
+        model: "gemini-2.5-flash",
         contents: [
           {
             inlineData: {
